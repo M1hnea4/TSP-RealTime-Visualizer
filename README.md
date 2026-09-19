@@ -1,6 +1,6 @@
 # 🌍 TSP Berlin52 Real-Time Optimizer
 
-A real-time visualization tool that solves the Traveling Salesperson Problem (TSP) for the classic `berlin52` dataset. Watch the algorithms "untangle" the routes live on your screen!
+A real-time visualization tool that solves the Traveling Salesperson Problem (TSP) for the classic `berlin52` dataset. Watch the algorithms "untangle" the routes live on your screen!!
 
 ## 🚀 Features
 * **Live Matplotlib Visualization:** See the route distance decrease in real-time as the algorithms optimize the path.
